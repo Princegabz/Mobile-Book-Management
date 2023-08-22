@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "101229123558",
+    "project_id": "gwmbookcollections",
+    "storage_bucket": "gwmbookcollections.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:101229123558:android:23689befae73cdbf3c2827",
+        "android_client_info": {
+          "package_name": "com.example.poepart3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "101229123558-22s5ak64ttc5a2uh00fmas81dqu818t4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_VQ8bBKu4X0t8UBoGXzDMHEWjn3MdZE0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "101229123558-22s5ak64ttc5a2uh00fmas81dqu818t4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
